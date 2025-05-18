@@ -47,7 +47,7 @@ python main.py
 A trade message in Discord should look like this:
 
 ```
-https://atas.net/s/kSBMm96ICJw.png
+https://atas.net/s/XXXXXXX.png
 outcome: loss
 Session: IS3
 Direction: long
